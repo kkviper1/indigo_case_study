@@ -9,6 +9,8 @@ In this Report, we shall see how 3 Transformer models, namely
 BERT, T5 and GPT2 stack up against a question answering problem
 provided by the Toughdata Quora dataset.
 
+# Results
+
 | Models | Loss   | BLEU   | ROUGE  | Perplexity |
 |--------|--------|--------|--------|------------|
 | GPT    | 2.9588 |        |        | 19.276     |
